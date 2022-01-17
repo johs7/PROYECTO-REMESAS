@@ -11,7 +11,8 @@
 █░░╚╩╝╚╝╚╝╚╝╚╝╩─╩╚╝░░█
 █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-# PROYECTO-REMESAS
+# PROYECTO-REMESAS interfaz grafica en windows forms C#
+JOHANSSEN ROQUE
 Remesas,impuestos ejemplo repositorio
 este es un formulario que lee el nombre del remitente,nombre del beneficiario,ademas de la moneda a enviar (reciba cordobas y envie dolares,si manda dolares que reciba cordobas,el tipo de cambio usado fue de 35,60 cordobas por un dolar.
 
